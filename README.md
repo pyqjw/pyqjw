@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💻 ACMer (🥈 ICPC Nanjing 2020)
+- 🌱 I’m currently learning Machine Learning & Deep Learning
+- 🔭 I’m currently working on graduation project
