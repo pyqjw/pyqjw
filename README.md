@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 💻 ACMer (🥈 ICPC Nanjing 2020)
 - 🌱 I’m currently learning GCC and Linux
+- 😄 Linux and open source software
 - 📫 How to reach me: 404
