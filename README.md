@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💻 ACMer (🥈 ICPC Nanjing 2020)
-- 🌱 I’m currently learning Computer Vision and Multimodality
+- 🌱 I’m currently learning Computer Vision and Reinforcement Learning
 - 😄 Love Linux and open source software
 - 📫 How to reach me: 404
